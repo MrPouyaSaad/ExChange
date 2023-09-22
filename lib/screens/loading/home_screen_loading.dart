@@ -1,4 +1,4 @@
-import 'package:coin_ex/screens/widgets/banner_slider.dart';
+import 'package:ExChange/screens/widgets/banner_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer/shimmer.dart';

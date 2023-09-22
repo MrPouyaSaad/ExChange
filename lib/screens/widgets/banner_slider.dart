@@ -1,9 +1,9 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'package:coin_ex/screens/loading/home_screen_loading.dart';
-import 'package:flutter/material.dart';
 
-import 'package:coin_ex/api/entity/banner_entity.dart';
-import 'package:coin_ex/screens/widgets/image_service.dart';
+import 'package:ExChange/api/entity/banner_entity.dart';
+import 'package:ExChange/screens/loading/home_screen_loading.dart';
+import 'package:ExChange/screens/widgets/image_service.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

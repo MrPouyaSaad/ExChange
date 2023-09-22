@@ -1,8 +1,8 @@
-import 'package:coin_ex/api/repo/banner_repository.dart';
-import 'package:coin_ex/api/repo/coin_list_repository.dart';
-import 'package:coin_ex/screens/home/bloc/home_bloc.dart';
-import 'package:coin_ex/screens/widgets/banner_slider.dart';
-import 'package:coin_ex/screens/widgets/image_service.dart';
+import 'package:ExChange/api/repo/banner_repository.dart';
+import 'package:ExChange/api/repo/coin_list_repository.dart';
+import 'package:ExChange/screens/home/bloc/home_bloc.dart';
+import 'package:ExChange/screens/widgets/banner_slider.dart';
+import 'package:ExChange/screens/widgets/image_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

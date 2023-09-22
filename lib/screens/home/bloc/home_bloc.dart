@@ -1,9 +1,8 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
+import 'package:ExChange/api/repo/banner_repository.dart';
+import 'package:ExChange/api/repo/coin_list_repository.dart';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-
-import 'package:coin_ex/api/repo/banner_repository.dart';
-import 'package:coin_ex/api/repo/coin_list_repository.dart';
 
 part 'home_event.dart';
 part 'home_state.dart';
