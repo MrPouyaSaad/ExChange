@@ -1,6 +1,6 @@
-# coin_ex
+# ExChange 
 
-A new Flutter project.
+Crypto ExChange With "CoinEx" Api.
 
 ## Getting Started
 
